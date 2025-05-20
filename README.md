@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alexander Nevado Garcia
 
-<!--
-**anevadog/anevadog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estudio Desarrollo de Aplicaciones Web y Desarrollo de Aplicaciones Multiplataforma. Me apasiona crear soluciones eficientes y escalables que aporten valor real.
+Estoy en búsqueda activa de oportunidades laborales donde pueda aplicar mis conocimientos y seguir creciendo profesionalmente.
+En mi perfil encontrarás varios proyectos que reflejan mi capacidad técnica y compromiso con el desarrollo de software.
 
-Here are some ideas to get you started:
+¡Gracias por visitar mi perfil!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos
+- [🧾 Empresa SOFTHARD A&L](https://github.com/anevadog/softhard__paginaweb)
+- [☕ Blog Café](https://github.com/anevadog/Blog__cafe).
+- [Tienda virtual](https://github.com/anevadog/tienda__virtual)
+
+## 📫 Contacto
+- ✉️ Email: alex06ng@gmail.com / alex06ng@icloud.com
+- 💼 LinkedIn: [linkedin.com/in/alexandernevado](www.linkedin.com/in/alexandernevado)
