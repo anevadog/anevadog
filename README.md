@@ -2,7 +2,7 @@
 
 **Técnico de Soporte IT con 8 años de experiencia, formándome como desarrollador backend Java · Estudiante de DAM**
 
-📍 Dos Hermanas, Sevilla · Busco mi primer empleo en desarrollo: junior, prácticas o soporte con proyección · Remoto ✔ · Abierto a reubicarme en Suecia
+📍 Dos Hermanas, Sevilla · Busco mi primer empleo en desarrollo: junior, prácticas o soporte con proyección.
 
 [Web / CV](https://anevadog.github.io) · [LinkedIn](https://www.linkedin.com/in/alexandernevado) · [alex06ng@gmail.com](mailto:alex06ng@gmail.com)
 
