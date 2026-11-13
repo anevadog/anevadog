@@ -18,6 +18,7 @@ Trabajo con agentes de IA (Claude Code, OpenCode) como herramienta, no como pilo
 |---|---|---|
 | **[cocina](https://github.com/anevadog/cocina)** | API REST para la cocina de un restaurante: almacén por lotes y caducidades, coste real de cada plato con recetas versionadas y producción que descuenta stock sin quedar en negativo aunque trabajen varios cocineros a la vez. | Java 25 · Spring Boot 4 · PostgreSQL · Flyway · JWT · Testcontainers · Docker · 247 tests · CI |
 | **[softhard-al](https://github.com/anevadog/softhard-al)** | Aplicación full stack para un taller de reparación con tienda online: solicitudes y presupuestos, panel del taller con fichajes, cobros, facturación simulada y dashboard de ingresos. | Next.js 15 · TypeScript · PostgreSQL · Prisma · Auth.js · Vitest · 715 tests · CI |
+| **[pendla](https://github.com/anevadog/pendla)** | Una pequeña API REST para realizar un seguimiento de la búsqueda de empleo en Suecia. | Java 25 · Spring Boot 4.1 · Maven · Spring Data JPA · PostgreSQL  · CI |
 
 ## Lo que he aprendido construyéndolos
 
