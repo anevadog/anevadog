@@ -2,7 +2,7 @@
 
 **Desarrollador backend Java en formación · 8 años en soporte IT · Estudiante de DAM**
 
-📍 Dos Hermanas, Sevilla · Busco prácticas o un puesto junior de backend Java · Abierto a remoto y a reubicación en Suecia
+📍 Dos Hermanas, Sevilla
 
 [Web / CV](https://anevadog.github.io) · [LinkedIn](https://www.linkedin.com/in/alexandernevado) · [alex06ng@gmail.com](mailto:alex06ng@gmail.com)
 
@@ -27,7 +27,7 @@
 | Proyecto | Qué resuelve | Stack | Pruébalo |
 |---|---|---|---|
 | **[softhard-al](https://github.com/anevadog/softhard-al)** | Taller de reparación con tienda online: presupuestos, fichajes, cobros, facturación simulada y dashboard de ingresos. | Next.js · TypeScript · PostgreSQL · Prisma · **715 tests** | [Demo](https://softhard-al.vercel.app) |
-| **[pendla](https://github.com/anevadog/pendla)** | API para seguir mi búsqueda de empleo en Suecia con ofertas reales de JobTech. | Java · Spring Boot · PostgreSQL · JWT · **77 tests** | [Swagger](https://pendla.onrender.com/swagger-ui.html) ¹ |
+| **[pendla](https://github.com/anevadog/pendla)** | API para seguir candidaturas de empleo con ofertas reales de la API pública JobTech. | Java · Spring Boot · PostgreSQL · JWT · **77 tests** | [Swagger](https://pendla.onrender.com/swagger-ui.html) ¹ |
 
 <sub>¹ Plan gratuito: la primera petición puede tardar alrededor de un minuto en despertar el servidor.</sub>
 
@@ -54,4 +54,4 @@ Uso agentes de IA (Claude Code, OpenCode) como herramienta, no como piloto autom
 
 ### 🇬🇧 In English
 
-Backend Java developer in training with 8 years of IT support experience (Service Desk, then my own repair business). Currently studying Multiplatform Application Development (DAM, Spain). Looking for an internship or a junior backend role; open to remote work and relocation to Sweden. My main project is [cocina](https://github.com/anevadog/cocina), a Spring Boot REST API with 247 tests. English: A2, actively improving.
+Backend Java developer in training with 8 years of IT support experience (Service Desk, then my own repair business). Currently studying Multiplatform Application Development (DAM, Spain). My main project is [cocina](https://github.com/anevadog/cocina), a Spring Boot REST API with 247 tests. English: A2, actively improving.
