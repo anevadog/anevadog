@@ -1,24 +1,35 @@
 # Alexander Nevado García
 
-**Técnico de Soporte IT con 8 años de experiencia, formándome como desarrollador backend Java · Estudiante de DAM**
+**Desarrollador backend Java en formación · 8 años en soporte IT · Estudiante de DAM**
 
-📍 Dos Hermanas, Sevilla · Busco mi primer empleo en desarrollo: junior, prácticas o soporte con proyección.
+📍 Dos Hermanas, Sevilla · Busco prácticas o un puesto junior de backend Java · Abierto a remoto y a reubicación en Suecia
 
 [Web / CV](https://anevadog.github.io) · [LinkedIn](https://www.linkedin.com/in/alexandernevado) · [alex06ng@gmail.com](mailto:alex06ng@gmail.com)
 
 ---
 
-Durante 8 años he resuelto incidencias de hardware, software y redes: primero en un Service Desk y después en mi propio servicio técnico. Ahora resuelvo problemas construyendo software.
+## ⭐ Proyecto principal: [cocina](https://github.com/anevadog/cocina)
 
-Trabajo con agentes de IA (Claude Code, OpenCode) como herramienta, no como piloto automático: defino el alcance por fases, reviso el código, lo pruebo y tomo las decisiones. Cada proyecto documenta sus decisiones técnicas y lo que queda pendiente.
+**API REST para la cocina de un restaurante:** qué hay en el almacén, cuánto cuesta de verdad cada plato y qué hay que producir hoy.
 
-## Proyectos
+<a href="https://anevadog.github.io/cocina/"><img src="https://raw.githubusercontent.com/anevadog/cocina/main/docs/img/recorrido-receta.png" alt="Recorrido visual de cocina: la versión 1 de una receta conserva su coste por ración y la versión 2 sube tras encarecerse el tomate" width="100%"></a>
 
-| Proyecto | Qué resuelve | Stack |
-|---|---|---|
-| **[cocina](https://github.com/anevadog/cocina)** | API REST para la cocina de un restaurante: almacén por lotes y caducidades, coste real de cada plato con recetas versionadas y producción que descuenta stock sin quedar en negativo aunque trabajen varios cocineros a la vez. | Java 25 · Spring Boot 4 · PostgreSQL · Flyway · JWT · Testcontainers · Docker · 247 tests · CI |
-| **[softhard-al](https://github.com/anevadog/softhard-al)** | Aplicación full stack para un taller de reparación con tienda online: solicitudes y presupuestos, panel del taller con fichajes, cobros, facturación simulada y dashboard de ingresos. | Next.js 15 · TypeScript · PostgreSQL · Prisma · Auth.js · Vitest · 715 tests · CI |
-| **[pendla](https://github.com/anevadog/pendla)** | Una pequeña API REST para realizar un seguimiento de la búsqueda de empleo en Suecia. | Java 25 · Spring Boot 4.1 · Maven · Spring Data JPA · PostgreSQL  · CI |
+- **Stock que cuadra con varios cocineros a la vez:** el descuento es atómico y el almacén nunca queda en negativo.
+- **Coste por ración congelado** en cada versión de receta: si sube un proveedor, el histórico no cambia.
+- **Seguridad y trazabilidad:** JWT con refresh rotatorio, 4 roles y auditoría append-only protegida por trigger.
+
+`Java 25` `Spring Boot 4` `PostgreSQL` `Flyway` `JWT` `Testcontainers` `Docker` `GitHub Actions` · **247 tests**
+
+**[▶ Ver el recorrido](https://anevadog.github.io/cocina/)** · [Código](https://github.com/anevadog/cocina) · [Revisión técnica](https://github.com/anevadog/cocina/blob/main/docs/revision-tecnica.md) · [Decisiones (ADR)](https://github.com/anevadog/cocina/blob/main/docs/decisiones.md)
+
+## Otros proyectos
+
+| Proyecto | Qué resuelve | Stack | Pruébalo |
+|---|---|---|---|
+| **[softhard-al](https://github.com/anevadog/softhard-al)** | Taller de reparación con tienda online: presupuestos, fichajes, cobros, facturación simulada y dashboard de ingresos. | Next.js · TypeScript · PostgreSQL · Prisma · **715 tests** | [Demo](https://softhard-al.vercel.app) |
+| **[pendla](https://github.com/anevadog/pendla)** | API para seguir mi búsqueda de empleo en Suecia con ofertas reales de JobTech. | Java · Spring Boot · PostgreSQL · JWT · **77 tests** | [Swagger](https://pendla.onrender.com/swagger-ui.html) ¹ |
+
+<sub>¹ Plan gratuito: la primera petición puede tardar alrededor de un minuto en despertar el servidor.</sub>
 
 ## Lo que he aprendido construyéndolos
 
@@ -28,15 +39,19 @@ Trabajo con agentes de IA (Claude Code, OpenCode) como herramienta, no como pilo
 - **Tests contra una base de datos real** y CI en GitHub Actions en cada push.
 - **Documentar decisiones (ADR):** por qué elegí una opción y qué alternativas descarté.
 
+## Cómo trabajo
+
+Uso agentes de IA (Claude Code, OpenCode) como herramienta, no como piloto automático: defino el alcance por fases, reviso el código, lo pruebo y tomo las decisiones. Cada proyecto documenta sus decisiones y lo que queda pendiente.
+
 ## Tecnologías
 
-**Backend:** Java · Spring Boot · SQL / PostgreSQL
-**También he usado:** TypeScript · Next.js · React
-**Herramientas:** Git · GitHub Actions · Docker
-**Sistemas (8 años):** Windows Server · Active Directory · redes · copias de seguridad · soporte a usuarios
+- **Backend:** Java · Spring Boot · SQL / PostgreSQL · JUnit · Testcontainers
+- **También he usado:** TypeScript · Next.js · React
+- **Herramientas:** Git · GitHub Actions · Docker
+- **Sistemas (8 años):** Windows Server · Active Directory · redes · copias de seguridad · soporte a usuarios
 
 ---
 
 ### 🇬🇧 In English
 
-IT Support technician (8 years) moving into backend development with Java and Spring Boot. Currently studying Multiplatform Application Development (DAM, Spain). Open to junior roles, internships, remote work and relocation to Sweden. English: A2, actively improving.
+Backend Java developer in training with 8 years of IT support experience (Service Desk, then my own repair business). Currently studying Multiplatform Application Development (DAM, Spain). Looking for an internship or a junior backend role; open to remote work and relocation to Sweden. My main project is [cocina](https://github.com/anevadog/cocina), a Spring Boot REST API with 247 tests. English: A2, actively improving.
