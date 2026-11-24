@@ -1,6 +1,6 @@
 # Alexander Nevado García
 
-**Desarrollador backend Java en formación · 8 años en soporte IT · Estudiante de DAM**
+**Técnico de Soporte IT con 8 años de experiencia · Estudiante de DAM · Formándome en backend con Java**
 
 📍 Dos Hermanas, Sevilla
 
@@ -27,7 +27,7 @@
 | Proyecto | Qué resuelve | Stack | Pruébalo |
 |---|---|---|---|
 | **[softhard-al](https://github.com/anevadog/softhard-al)** | Taller de reparación con tienda online: presupuestos, fichajes, cobros, facturación simulada y dashboard de ingresos. | Next.js · TypeScript · PostgreSQL · Prisma · **715 tests** | [Demo](https://softhard-al.vercel.app) |
-| **[pendla](https://github.com/anevadog/pendla)** | API para seguir candidaturas de empleo con ofertas reales de la API pública JobTech. | Java · Spring Boot · PostgreSQL · JWT · **77 tests** | [Swagger](https://pendla.onrender.com/swagger-ui.html) ¹ |
+| **[pendla](https://github.com/anevadog/pendla)** | API para seguir candidaturas de empleo con ofertas reales de la API pública JobTech. | Java · Spring Boot · PostgreSQL · JWT · **130 tests** | [Swagger](https://pendla.onrender.com/swagger-ui.html) ¹ |
 
 <sub>¹ Plan gratuito: la primera petición puede tardar alrededor de un minuto en despertar el servidor.</sub>
 
@@ -45,13 +45,12 @@ Uso agentes de IA (Claude Code, OpenCode) como herramienta, no como piloto autom
 
 ## Tecnologías
 
-- **Backend:** Java · Spring Boot · SQL / PostgreSQL · JUnit · Testcontainers
-- **También he usado:** TypeScript · Next.js · React
-- **Herramientas:** Git · GitHub Actions · Docker
-- **Sistemas (8 años):** Windows Server · Active Directory · redes · copias de seguridad · soporte a usuarios
+- **Formación DAM (nivel inicial):** Java (POO) · SQL · HTML y CSS · Git y GitHub
+- **Usadas en mis proyectos, con asistencia de IA:** Spring Boot · Spring Data JPA · PostgreSQL · Flyway · JUnit · Mockito · Testcontainers · TypeScript · Next.js · React · Prisma · Docker · GitHub Actions
+- **Sistemas y soporte (8 años):** Windows Server y Active Directory (básico) · redes · copias de seguridad · soporte a usuarios
 
 ---
 
 ### 🇬🇧 In English
 
-Backend Java developer in training with 8 years of IT support experience (Service Desk, then my own repair business). Currently studying Multiplatform Application Development (DAM, Spain). My main project is [cocina](https://github.com/anevadog/cocina), a Spring Boot REST API with 247 tests. English: A2, actively improving.
+IT Support technician with 8 years of experience (Service Desk, then my own repair business, SoftHard A&L). Currently studying Multiplatform Application Development (DAM, Spain) and training in backend development with Java. My main project is [cocina](https://github.com/anevadog/cocina), a Spring Boot REST API with 247 tests. English: A2, actively improving.
